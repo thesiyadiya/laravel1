@@ -1,0 +1,1 @@
+<h1> hello laravel</h1><?php /**PATH D:\xampp\htdocs\laravel\resources\views/welcome.blade.php ENDPATH**/ ?>

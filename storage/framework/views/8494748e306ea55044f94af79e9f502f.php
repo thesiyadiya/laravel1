@@ -1,0 +1,1 @@
+<h1>User name is:<?php echo e($name); ?> </h1><?php /**PATH D:\xampp\htdocs\laravel\resources\views/getuser.blade.php ENDPATH**/ ?>

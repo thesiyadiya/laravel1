@@ -1,0 +1,1 @@
+<h1> view page </h1><?php /**PATH D:\xampp\htdocs\laravel\resources\views/user.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+<h1>Admin Login page</h1><?php /**PATH D:\xampp\htdocs\laravel\resources\views/admin/login.blade.php ENDPATH**/ ?>
